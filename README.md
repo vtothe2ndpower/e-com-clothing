@@ -1,3 +1,2 @@
 # E-Commerce Clothing Store
-
-This is an e-commerce store I'm building with React 
+*Technologies Used: React, Redux, Firebase*
