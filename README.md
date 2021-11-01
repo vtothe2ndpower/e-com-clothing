@@ -1,2 +1,2 @@
 # E-Commerce Clothing Store
-*Technologies Used: React, Redux, Firebase*
+*Technologies Used: React, Redux, Firebase, Reselect, Sass*
